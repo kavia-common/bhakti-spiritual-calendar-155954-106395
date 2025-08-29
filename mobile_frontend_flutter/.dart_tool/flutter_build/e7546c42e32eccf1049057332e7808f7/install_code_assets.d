@@ -1,0 +1,1 @@
+ /home/kavia/workspace/code-generation/bhakti-spiritual-calendar-155954-106395/mobile_frontend_flutter/.dart_tool/flutter_build/e7546c42e32eccf1049057332e7808f7/native_assets.json: 
