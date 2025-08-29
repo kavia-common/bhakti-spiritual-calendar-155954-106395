@@ -1,0 +1,4 @@
+#!/bin/bash
+cd /home/kavia/workspace/code-generation/bhakti-spiritual-calendar-155954-106395/mobile_frontend_flutter
+flutter analyze
+
